@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://images5.alphacoders.com/424/thumbbig-424975.webp);
+    background-size: cover;
+ background-repeat: no-repeat;
+}
+label{
+    color:red;
+}
+h2{
+    color:rgb(117, 199, 50);
+    font-family: cursive;
+}

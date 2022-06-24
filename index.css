@@ -1,0 +1,25 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(127,127,0);
+}
+body{
+    background-image: url(https://images3.alphacoders.com/111/thumbbig-111999.webp);
+    background-size: cover;
+ background-repeat: no-repeat;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    margin-top : 125px;
+    margin-bottom:5px;
+}
+a:visited {
+    color: rgb(190, 50, 74);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(126, 223, 179);
+    text-decoration: underline;
+  }
